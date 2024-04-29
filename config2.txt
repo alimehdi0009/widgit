@@ -1,1 +1,2 @@
-this is a test config file to learn about branching
+this is a test config file to learn about branching.
+some additional cofigs are added here.
